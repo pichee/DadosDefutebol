@@ -1,0 +1,14 @@
+version: "3.8"
+
+services:
+  pyspark:
+    build: .
+    container_name: pyspark_app
+    working_dir: /usr/src/app   
+    volumes:
+      - ./Raw:/usr/src/Raw      
+      - ./Spark:/usr/src/app/Spark 
+      - ./Truested:/usr/src/Truested 
+    environment:
+      - JAVA_HOME=/usr/lib/jvm/default-java
+    command: ["python", "Spark/CreateTablesTimes.py"]  # caminho relativo ao workdir

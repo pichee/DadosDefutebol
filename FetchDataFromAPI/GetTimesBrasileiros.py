@@ -3,8 +3,6 @@ import json
 import os
 from dotenv import load_dotenv
 
-
-
 url = "https://api.football-data.org/v4/competitions/BSA/teams"
 
 path = f"/usr/src/app/Raw/Times/"
@@ -21,5 +19,3 @@ if response.status_code == 200:
         json.dump(data,f,indent = 4)
 else:
     print("Erro:", response.status_code)
-
-git remote add origin https://github.com/pichee/DadosDefutebol.git
