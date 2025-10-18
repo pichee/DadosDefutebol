@@ -11,4 +11,7 @@ services:
       - ./Truested:/usr/src/Truested 
     environment:
       - JAVA_HOME=/usr/lib/jvm/default-java
-    command: ["python", "Spark/CreateTablesTimes.py"]  # caminho relativo ao workdir
+    env_file:
+    - .env
+
+    command: ["python", "/usr/src/app/FetchDataFromAPI/teste.py"]  # caminho relativo ao workdir
