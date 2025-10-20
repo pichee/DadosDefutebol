@@ -6,4 +6,4 @@ ENV PATH=$JAVA_HOME/bin:$PATH
 COPY requirements.txt ./
 RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
-CMD [ "python", "/usr/src/app/Spark/CreateTablesTimes.py" ]
+CMD [ "python", "/usr/src/app/FetchDataFromAPI/GetPartidas2024and2025.py" ]

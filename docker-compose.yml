@@ -6,7 +6,7 @@ services:
     container_name: pyspark_app
     working_dir: /usr/src/app   
     volumes:
-      - ./Raw:/usr/src/Raw      
+      - ./Raw:/usr/src/app/Raw      
       - ./Spark:/usr/src/app/Spark 
       - ./Truested:/usr/src/Truested 
     environment:
@@ -14,4 +14,4 @@ services:
     env_file:
     - .env
 
-    command: ["python", "/usr/src/app/FetchDataFromAPI/teste.py"]  # caminho relativo ao workdir
+    command: ["python", "/usr/src/app/FetchDataFromAPI/GetEstatisticas2025.py"]  # caminho relativo ao workdir

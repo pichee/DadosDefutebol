@@ -3,14 +3,9 @@ import json
 import os
 from dotenv import load_dotenv
 
+url = "https://api.football-data.org/v4/competitions/BSA/scorers?season=2024&limit=1000"
 
-comeco = 2015 
-
-while comeco <= 2025:
-url = f"https://api.football-data.org/v4/competitions/BSA/matches?season={comeco}&dateFrom={comeco}-01-01&dateTo={comeco}-12-31"
-
-
-path = "/usr/src/Raw/Times/"
+path = f"/usr/src/app/Raw/Estatisticas/"
 os.makedirs(path, exist_ok=True)
 
 token = os.getenv("API_KEY")
@@ -20,7 +15,7 @@ response = requests.get(url,headers=headers)
 if response.status_code == 200:
     data = response.json()
     print(data)
-    with open(f"{path}teste.json","w") as f:
+    with open(f"/usr/src/app/Raw/Estatisticas/estatisticas2024.json","w") as f:
         json.dump(data,f,indent = 4)
 else:
     print("Erro:", response.status_code)
