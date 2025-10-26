@@ -1,0 +1,949 @@
+ID_Jogador,ID_Time,Nome,Data_Nasc,Posicao,Idade
+1230,1765,Fábio,1980-09-30,Goalkeeper,45
+44235,1765,Vitor Eudes,1998-10-21,Goalkeeper,27
+136654,1765,Marcelo Pitaluga,2002-12-20,Goalkeeper,22
+1107,1765,Samuel Xavier,1990-06-06,Defence,35
+1215,1765,Igor Rabello,1995-04-28,Defence,30
+1235,1765,Manoel,1990-02-26,Defence,35
+1546,1765,Renê,1992-09-14,Defence,33
+12594,1765,Guga,1998-08-29,Defence,27
+22815,1765,Gabriel Fuentes,1997-02-09,Defence,28
+97470,1765,Ignácio,1996-12-01,Defence,28
+98654,1765,Juan Freytes,2000-01-11,Defence,25
+179100,1765,Davi,2002-01-30,Defence,23
+203335,1765,Janderson,2006-03-01,Defence,19
+221385,1765,Julio Cesar,2006-11-06,Defence,18
+260984,1765,Wallace,2007-05-10,Defence,18
+263956,1765,João Loiola,2005-04-14,Defence,20
+274147,1765,Gustavo Cintra,2005-10-16,Defence,20
+274161,1765,Davi Schuindt,2004-04-26,Defence,21
+274241,1765,Isac,2005-05-10,Defence,20
+277518,1765,Rodrigo,2006-02-07,Defence,19
+76,1765,Ganso,1989-10-12,Midfield,36
+1184,1765,Thiago Santos,1989-09-05,Midfield,36
+8503,1765,Otávio,1994-05-04,Midfield,31
+23333,1765,Yeferson Soteldo,1997-06-30,Midfield,28
+28614,1765,Agustín Canobbio,1998-10-01,Midfield,27
+61369,1765,Nonato,1998-03-03,Midfield,27
+76910,1765,Luciano Acosta,1994-05-31,Midfield,31
+114704,1765,Santiago Moreno,2000-04-21,Midfield,25
+145985,1765,Hércules,2000-10-20,Midfield,25
+169575,1765,Lima,1996-06-11,Midfield,29
+179177,1765,Martinelli,2001-10-05,Midfield,24
+193023,1765,Ruben Lezcano,2004-02-09,Midfield,21
+228010,1765,Gustavo Dohmann,2005-03-15,Midfield,20
+245200,1765,Facundo Bernal,2003-08-21,Midfield,22
+263953,1765,Luiz Guilherme,2004-03-19,Midfield,21
+274154,1765,Kaio,2007-02-19,Midfield,18
+274160,1765,Breno,2007-03-24,Midfield,18
+274164,1765,Davi Melo,2005-11-20,Midfield,19
+277752,1765,Leonardo,2005-03-23,Midfield,20
+278022,1765,Vagno,2007-09-26,Midfield,18
+278026,1765,Fabio Henrique,2006-01-24,Midfield,19
+1193,1765,Keno,1989-09-10,Offence,36
+21951,1765,Germán Cano,1988-02-02,Offence,37
+39954,1765,Everaldo,1991-07-05,Offence,34
+168873,1765,Samuel,2000-10-02,Offence,25
+181336,1765,Kevin Serna,1997-12-22,Offence,27
+203321,1765,Agner Moura,2005-03-22,Offence,20
+213295,1765,Luan Brito,2002-09-10,Offence,23
+221342,1765,Matheus Reis,2007-04-02,Offence,18
+253146,1765,Lucas Felipe,2003-01-31,Offence,22
+259981,1765,Joaquín Lavega,,Offence,
+273195,1765,Riquelme Felipe,2007-03-13,Offence,18
+274159,1765,Marlon,2005-03-17,Offence,20
+274162,1765,Oliver,2007-05-11,Offence,18
+274163,1765,Marcão,2005-01-13,Offence,20
+278023,1765,Keven Samuel,2007-01-26,Offence,18
+278024,1765,Wesley Natã,2008-04-18,Offence,17
+278025,1765,Kelwin,2006-03-24,Offence,19
+157533,1765,John Kennedy,2002-05-18,Centre-Forward,23
+3224,1765,Thiago Silva,1984-09-22,Centre-Back,41
+1695,1766,Everson,1990-07-22,Goalkeeper,35
+178929,1766,Gabriel Delfim,2002-07-10,Goalkeeper,23
+250473,1766,Gabriel Átila,2003-01-22,Goalkeeper,22
+276227,1766,Robert,2005-02-03,Goalkeeper,20
+276267,1766,Pedro,2006-05-16,Goalkeeper,19
+276275,1766,Diego,2004-08-31,Goalkeeper,21
+1773,1766,Vitor Hugo,1991-05-20,Defence,34
+8395,1766,Júnior Alonso,1993-02-09,Defence,32
+15929,1766,Guilherme Arana,1997-04-14,Defence,28
+46563,1766,Renzo Saravia,1993-06-16,Defence,32
+141379,1766,Natanael,2002-01-05,Defence,23
+203342,1766,Vitor Reis,2006-03-11,Defence,19
+218742,1766,Iván Román,2006-07-12,Defence,19
+276270,1766,Denilson,2006-05-01,Defence,19
+276276,1766,Pedro Henrique,2006-04-20,Defence,19
+285293,1766,Vitor Fernandes,2008-03-04,Defence,17
+286915,1766,Nine,2001-08-03,Defence,24
+16476,1766,Bernard,1992-09-08,Midfield,33
+24670,1766,Alan Franco,1998-08-21,Midfield,27
+46266,1766,Tomás Cuello,2000-03-05,Midfield,25
+72781,1766,Gustavo Scarpa,1994-01-05,Midfield,31
+74729,1766,Caio Paulista,1998-05-11,Midfield,27
+82534,1766,Igor Gomes,1999-03-17,Midfield,26
+99293,1766,Fausto Vera,2000-03-26,Midfield,25
+139933,1766,Gabriel Menino,2000-09-29,Midfield,25
+169073,1766,Gabriel Teixeira,2001-04-01,Midfield,24
+189371,1766,Alexsander Gomes,2003-10-08,Midfield,22
+260075,1766,Patrick Silva,2004-03-19,Midfield,21
+276189,1766,José Phelipe,2005-06-14,Midfield,20
+276209,1766,Kauan,2005-01-05,Midfield,20
+276210,1766,Hendel,2008-04-03,Midfield,17
+276236,1766,David Ramos,2005-03-12,Midfield,20
+276263,1766,Lucas Louback,2006-04-13,Midfield,19
+285292,1766,Mateus Iseppe,2006-05-02,Midfield,19
+287315,1766,Kaylaine Souza,2004-06-11,Midfield,21
+1182,1766,Dudu,1992-01-07,Offence,33
+1226,1766,Rony,1995-05-11,Offence,30
+12653,1766,Júnior Santos,1994-10-11,Offence,31
+21689,1766,Hulk,1986-07-25,Offence,39
+193027,1766,Isaac Aguiar,2004-03-26,Offence,21
+203302,1766,Cadu,2004-05-24,Offence,21
+271865,1766,Caio,2005-04-01,Offence,20
+272878,1766,João Marcelo,2005-04-15,Offence,20
+276224,1766,Eric Soares,2006-01-08,Offence,19
+276280,1766,Ryan Felipe,2006-07-28,Offence,19
+287624,1766,João Castro,2009-07-16,Offence,16
+131258,1766,Ruan,1999-06-07,Centre-Back,26
+123350,1766,Reinier,2002-01-19,Attacking Midfield,23
+2283,1766,Lyanco,1997-02-01,Centre-Back,28
+39920,1767,Tiago Volpi,1990-12-19,Goalkeeper,34
+115234,1767,Jorge,2001-04-03,Goalkeeper,24
+168962,1767,Gabriel Chapeco,2000-03-29,Goalkeeper,25
+249197,1767,Thiago Beltrame,2003-07-02,Goalkeeper,22
+263,1767,Rodrigo Ely,1993-11-03,Defence,31
+1072,1767,Marlon,1997-05-20,Defence,28
+1138,1767,Walter Kannemann,1991-03-14,Defence,34
+1178,1767,Marcos Rocha,1988-12-11,Defence,36
+1387,1767,João Pedro,1996-11-15,Defence,28
+1436,1767,Fabián Balbuena,1991-08-23,Defence,34
+8753,1767,Jemerson,1992-08-24,Defence,33
+113808,1767,Lucas Esteves,2000-06-24,Defence,25
+119621,1767,João Lucas,1998-03-09,Defence,27
+147442,1767,Erick Noriega,2001-10-22,Defence,24
+168793,1767,Wagner Leonardo,1999-07-23,Defence,26
+181463,1767,Gustavo Martins,2002-08-11,Defence,23
+211602,1767,Viery,2005-01-02,Defence,20
+269806,1767,Enzo,2002-07-18,Defence,23
+276217,1767,Borges,2006-06-07,Defence,19
+276278,1767,Luis Guedes,2008-01-16,Defence,17
+276281,1767,Pedro Gabriel,2007-06-06,Defence,18
+1087,1767,Dodi,1996-04-17,Midfield,29
+1541,1767,Gustavo Cuéllar,1992-10-14,Midfield,33
+1580,1767,Edenilson,1989-12-18,Midfield,35
+1609,1767,Alex Santana,1995-05-13,Midfield,30
+8863,1767,Francis Amuzu,1999-08-23,Midfield,26
+46178,1767,Mathías Villasanti,1997-01-24,Midfield,28
+46466,1767,Franco Cristaldo,1996-08-15,Midfield,29
+118377,1767,Camilo,1999-02-23,Midfield,26
+142131,1767,Cristian Olivera,2002-04-17,Midfield,23
+178482,1767,Miguel Monsalve,2004-02-27,Midfield,21
+194864,1767,Mila,2003-01-28,Midfield,22
+227056,1767,Araujo,2005-06-20,Midfield,20
+249139,1767,Riquelme,2006-08-13,Midfield,19
+250595,1767,Jardiel,2005-05-21,Midfield,20
+273290,1767,Tiago Goncalves,2008-02-02,Midfield,17
+276206,1767,Bernardo Zortea,2007-03-21,Midfield,18
+276279,1767,Gabriel Mec,2008-04-11,Midfield,17
+3219,1767,Cristian Pavón,1996-01-21,Offence,29
+152236,1767,Alexander Aravena,2002-09-06,Offence,23
+194867,1767,Andre,2001-12-17,Offence,23
+260718,1767,Alysson,2006-05-05,Offence,19
+276220,1767,Smiley,2007-05-08,Offence,18
+276269,1767,Jeferson,2007-01-16,Offence,18
+37833,1767,Carlos Vinícius,1995-03-25,Centre-Forward,30
+3467,1767,Martin Braithwaite,1991-06-05,Centre-Forward,34
+3230,1767,Willian,1988-08-09,Left Winger,37
+1148,1767,Arthur,1996-08-12,Defensive Midfield,29
+1170,1769,Weverton,1987-12-13,Goalkeeper,37
+1562,1769,Marcelo Lomba,1986-12-18,Goalkeeper,38
+118029,1769,Carlos Miguel,1998-10-09,Goalkeeper,27
+281726,1769,Wanderson Ferreira,2005-02-07,Goalkeeper,20
+283241,1769,Luiz Sá,2007-03-01,Goalkeeper,18
+1741,1769,Gustavo Gómez,1993-05-06,Defence,32
+28740,1769,Joaquín Piquerez,1998-08-24,Defence,27
+115222,1769,Bruno Fuchs,1999-04-01,Defence,26
+115559,1769,Khellven,2001-02-25,Defence,24
+170525,1769,Murilo Cerqueira,1997-03-27,Defence,28
+177623,1769,Micael,2000-08-12,Defence,25
+183528,1769,Agustin Giay,2004-01-16,Defence,21
+206776,1769,Jefte,2003-12-21,Defence,21
+260932,1769,Luis Gustavo,2006-06-07,Defence,19
+281040,1769,Arthur Santana,2005-09-04,Defence,20
+286575,1769,Gilberto Leite,2005-03-27,Defence,20
+1686,1769,Raphael Veiga,1995-06-19,Midfield,30
+45173,1769,Lucas Evangelista,1995-05-06,Midfield,30
+112964,1769,Aníbal Moreno,1999-05-13,Midfield,26
+119594,1769,Mauricio,2001-06-22,Midfield,24
+130957,1769,Emiliano Martínez,1999-08-17,Midfield,26
+143549,1769,Facundo Torres Pérez,2000-04-13,Midfield,25
+170698,1769,José Manuel López,2000-12-06,Midfield,24
+270549,1769,Vitor Figueiredo,2006-03-03,Midfield,19
+281587,1769,Rafael Coutinho,2006-03-24,Midfield,19
+282123,1769,Erick Machado,2007-01-21,Midfield,18
+287767,1769,Luis Pacheco,2008-02-02,Midfield,17
+1490,1769,Paulinho,2000-07-15,Offence,25
+169004,1769,Bruno Rodrigues,1997-03-07,Offence,28
+249169,1769,Luighi Hanri,2006-04-30,Offence,19
+249222,1769,Riquelme Fillipi,2006-09-15,Offence,19
+262366,1769,Larson,2005-07-10,Offence,20
+274216,1769,Allan,2004-04-19,Offence,21
+287314,1769,Heittor da Silva,2007-09-18,Offence,18
+140647,1769,Ramón Sosa,1999-08-31,Left Winger,26
+33153,1769,Andreas Pereira,1996-01-01,Attacking Midfield,29
+2060,1769,Felipe Anderson,1993-04-15,Left Winger,32
+181439,1769,Vítor Roque,2005-02-28,Centre-Forward,20
+3221,1770,Neto,1989-07-19,Goalkeeper,36
+13152,1770,Raul,1997-07-28,Goalkeeper,28
+179157,1770,Leo Linck,2001-03-03,Goalkeeper,24
+250332,1770,Cristhian Loor,2006-03-09,Goalkeeper,19
+250759,1770,Rhyan Luca,2006-12-02,Goalkeeper,18
+275109,1770,Lara Silva,2004-01-27,Goalkeeper,21
+1239,1770,Vitinho,1999-07-23,Defence,26
+8457,1770,Marçal,1989-02-19,Defence,36
+15904,1770,Alex Telles,1992-12-15,Defence,32
+37418,1770,Kaio Pantaleão,1995-09-18,Defence,30
+46454,1770,Alexander Barboza,1995-03-16,Defence,30
+49422,1770,Philipe Sampaio,1994-11-11,Defence,30
+160792,1770,Mateo Ponte,2003-05-24,Defence,22
+171861,1770,Bastos,1991-11-23,Defence,33
+181420,1770,João Pedro Galvão,2001-05-07,Defence,24
+181575,1770,Cuiabano,2003-02-16,Defence,22
+182480,1770,David Loiola,2002-12-21,Defence,22
+220934,1770,Gabriel Henrique,1998-11-24,Defence,26
+274540,1770,Caio Valle,2007-10-11,Defence,18
+278564,1770,Kaíque Da Silva,2007-03-02,Defence,18
+286981,1770,Gabriel Pereira,2006-04-16,Defence,19
+287447,1770,Gabriel Abdias,2006-06-19,Defence,19
+287787,1770,Marcos Vinagre,2007-02-15,Defence,18
+1080,1770,Marlon Freitas,1995-03-27,Midfield,30
+2096,1770,Allan,1991-01-08,Midfield,34
+77159,1770,Jefferson Savarino,1996-11-11,Midfield,28
+113671,1770,Santiago Rodríguez,2000-01-08,Midfield,25
+169234,1770,Matheus Martins,2003-07-16,Midfield,22
+203361,1770,Bernardo Valim,2006-01-30,Midfield,19
+203397,1770,Newton,2000-03-12,Midfield,25
+206393,1770,Jordan Barrera,2006-04-11,Midfield,19
+221555,1770,Kaua Branco,2006-05-04,Midfield,19
+250493,1770,Alvaro Montoro,2007-04-17,Midfield,18
+274146,1770,Lucyo,2006-03-15,Midfield,19
+274153,1770,Ryan Do Couto,2005-03-03,Midfield,20
+274539,1770,Lucas Camilo,2006-05-25,Midfield,19
+274541,1770,Zappelini,2007-03-26,Midfield,18
+275395,1770,Kauan,2006-04-15,Midfield,19
+77,1770,Joaquín Correa,1994-08-13,Offence,31
+1192,1770,Artur Guimaraes,1998-02-15,Offence,27
+28282,1770,Gonzalo Mastriani,1993-04-28,Offence,32
+172113,1770,Chris Ramos,1997-01-18,Offence,28
+182538,1770,Weliton Santos,2005-04-13,Offence,20
+206708,1770,Nathan Ribeiro,2005-02-16,Offence,20
+286831,1770,Iago,2007-01-05,Offence,18
+286833,1770,Kadir Barría,2007-07-18,Offence,18
+149704,1770,Danilo dos Santos de Oliveira,2001-04-29,Defensive Midfield,24
+1723,1770,Arthur Cabral,1998-04-25,Centre-Forward,27
+191415,1770,Jeffinho,1999-12-30,Left Winger,25
+1431,1771,Cássio,1987-06-06,Goalkeeper,38
+203390,1771,Otávio,2005-12-27,Goalkeeper,19
+203682,1771,Léo Aragão,2002-04-19,Goalkeeper,23
+276287,1771,Marcelo,2006-02-12,Goalkeeper,19
+278776,1771,Vitor Lamounier,2007-10-18,Goalkeeper,18
+1266,1771,Fabrício Bruno,1996-02-12,Defence,29
+1434,1771,Fágner,1989-06-11,Defence,36
+9418,1771,William,1995-04-03,Defence,30
+45865,1771,Lucas Villalba,1994-08-19,Defence,31
+110770,1771,Mateo Gamarra,2000-10-20,Defence,25
+115095,1771,João Marcelo,2000-06-13,Defence,25
+181633,1771,Kaiki Bruno,2003-03-08,Defence,22
+207251,1771,Jonathan,2004-05-27,Defence,21
+276232,1771,José,2005-08-31,Defence,20
+276255,1771,Kaua Prates,2008-08-12,Defence,17
+278484,1771,Kauã Moraes,2006-06-29,Defence,19
+278775,1771,Nicolas Pontes,2006-01-14,Defence,19
+1246,1771,Lucas Romero,1994-04-18,Midfield,31
+1250,1771,Lucas Silva,1993-02-16,Midfield,32
+7838,1771,Yannick Bolasie,1989-05-24,Midfield,36
+49264,1771,Wanderson,1994-10-07,Midfield,31
+118245,1771,Christian,2000-12-19,Midfield,24
+183580,1771,Carlos Eduardo,1989-10-17,Midfield,36
+203387,1771,João Wellington,2004-01-02,Midfield,21
+205585,1771,Keny Arroyo,2006-02-14,Midfield,19
+250777,1771,Ryan,2002-12-07,Midfield,22
+277675,1771,Murilo,2006-03-13,Midfield,19
+280704,1771,Nicolas Almeida,2016-04-14,Midfield,9
+1327,1771,Gabriel Barbosa,1996-08-30,Offence,29
+45490,1771,Matheus Pereira,1996-05-05,Offence,29
+224582,1771,Ruan,2006-08-10,Offence,19
+227024,1771,Luis Fernando,2005-04-12,Offence,20
+272933,1771,Kenji,2006-01-30,Offence,19
+276286,1771,Bruno Ferreira,2005-08-04,Offence,20
+169277,1771,Marquinhos,2003-04-07,Right Winger,22
+91310,1771,Kaio Jorge,2002-01-24,Centre-Forward,23
+22040,1771,Luis Sinisterra,1999-06-17,Left Winger,26
+6532,1771,Walace,1995-04-04,Defensive Midfield,30
+1153,1771,Matheus Henrique,1997-12-19,Central Midfield,27
+179023,1776,Rafael Monteiro,1989-06-23,Goalkeeper,36
+179818,1776,Young,2002-03-07,Goalkeeper,23
+206230,1776,Mathias Leandro,2004-11-14,Goalkeeper,20
+249208,1776,Felipe,2005-11-19,Goalkeeper,19
+276229,1776,João Pedro,2006-04-10,Goalkeeper,19
+1338,1776,Robert Arboleda,1991-10-22,Defence,34
+18853,1776,Mailton dos Santos,1998-05-31,Defence,27
+28433,1776,Nahuel Ferraresi,1998-11-19,Defence,26
+46523,1776,Alan Franco,1996-10-11,Defence,29
+59844,1776,Enzo Díaz,1995-12-07,Defence,29
+73058,1776,Luan,1999-05-14,Defence,26
+79609,1776,José Sabino,1996-10-25,Defence,29
+136769,1776,Patryck,2003-01-18,Defence,22
+192632,1776,Matheus Belém,2003-03-13,Defence,22
+249179,1776,Igor Teixeira,2007-03-07,Defence,18
+249302,1776,Isac,2006-04-02,Defence,19
+260264,1776,Igor Odoni,2007-08-19,Defence,18
+276219,1776,Pedro Andrade,2005-04-20,Defence,20
+276249,1776,Pedro Henrique,2007-01-15,Defence,18
+283427,1776,Nicolas,2007-04-08,Defence,18
+1154,1776,Alisson,1993-06-25,Midfield,32
+8003,1776,Lucas Moura,1992-08-13,Midfield,33
+8357,1776,Luiz Gustavo,1987-07-23,Midfield,38
+21687,1776,Oscar,1991-09-09,Midfield,34
+85523,1776,Marcos Antônio,2000-06-13,Midfield,25
+103499,1776,Ferreira,1997-12-31,Midfield,27
+168954,1776,Damian Bobadilla,2001-07-11,Midfield,24
+169542,1776,Pablo Maia,2002-01-10,Midfield,23
+183235,1776,Rodrigo Huendra,2004-03-16,Midfield,21
+206664,1776,Felipe Negrucci,2004-05-14,Midfield,21
+276268,1776,Pedrinho,2007-04-24,Midfield,18
+276272,1776,Maik,2005-01-03,Midfield,20
+276437,1776,Hugo,2004-01-19,Midfield,21
+3137,1776,Jonathan Calleri,1993-09-23,Offence,32
+24556,1776,Juan Dinenno,1994-08-28,Offence,31
+42901,1776,Luciano,1993-05-18,Offence,32
+45459,1776,André Silva,1997-06-03,Offence,28
+149959,1776,Gonzalo Tapia,2002-02-18,Offence,23
+273330,1776,Ryan Rodrigues,2006-11-21,Offence,18
+276282,1776,Lucca Marques,2007-06-14,Offence,18
+276288,1776,Paulo Sérgio,2005-05-17,Offence,20
+49452,1776,Emiliano Rigoni,1993-02-04,Right Winger,32
+6475,1776,Wendell,1993-07-20,Left-Back,32
+3244,1776,Cédric,1991-08-31,Right-Back,34
+1832,1776,Rafael Tolói,1990-10-10,Centre-Back,35
+1296,1777,João Paulo,1995-06-29,Goalkeeper,30
+1496,1777,Ronaldo,1996-08-22,Goalkeeper,29
+1560,1777,Danilo Fernandes,1988-04-03,Goalkeeper,37
+181442,1777,Gabriel Souza,2004-08-03,Goalkeeper,21
+203299,1777,Victor,2006-05-03,Goalkeeper,19
+203377,1777,Gabriel Souza,2007-02-28,Goalkeeper,18
+249605,1777,Iuri,2007-02-11,Goalkeeper,18
+1073,1777,Gilberto,1993-03-07,Defence,32
+1205,1777,Kanu,1997-03-07,Defence,28
+3723,1777,Santiago Arias,1992-01-13,Defence,33
+13419,1777,David Duarte,1995-01-24,Defence,30
+122794,1777,Santiago Ramos,2001-11-21,Defence,23
+140873,1777,Luciano Juba,1999-08-29,Defence,26
+181587,1777,Gabriel Xavier,2001-05-06,Defence,24
+194863,1777,Jose Guilherme,2005-03-16,Defence,20
+203291,1777,Gerald Santos,2007-11-01,Defence,17
+249149,1777,Pedro Henrique,2006-01-19,Defence,19
+249151,1777,Luiz Gustavo,2006-04-12,Defence,19
+274110,1777,Frederico,2006-05-23,Defence,19
+285559,1777,Alessandro Santos,2009-03-28,Defence,16
+287316,1777,Erique,2009-03-04,Defence,16
+1547,1777,Jean Lucas,1998-06-22,Midfield,27
+1548,1777,Éverton Ribeiro,1989-04-10,Midfield,36
+9946,1777,Cauly,1995-09-15,Midfield,30
+18478,1777,Erick,1997-11-14,Midfield,27
+20029,1777,Rezende,1995-01-02,Midfield,30
+107803,1777,Nicolás Acevedo,1999-04-14,Midfield,26
+110928,1777,Rodrigo Nestor,2000-08-09,Midfield,25
+136393,1777,Caio Alexandre,1999-02-24,Midfield,26
+168882,1777,Kayky,2003-06-11,Midfield,22
+181613,1777,Alex Ferreira,2005-03-29,Midfield,20
+191376,1777,Mateo Sanabria,2004-03-31,Midfield,21
+203264,1777,Tiago,2005-04-08,Midfield,20
+203331,1777,Erick,2006-06-05,Midfield,19
+203334,1777,Vitinho,2004-04-28,Midfield,21
+203386,1777,Sidney,2006-03-12,Midfield,19
+203408,1777,Juninho,2005-12-17,Midfield,19
+249189,1777,Wendel Silva,2006-02-28,Midfield,19
+249194,1777,Marco Antônio,2006-07-01,Midfield,19
+250177,1777,Daniel,2005-06-06,Midfield,20
+272531,1777,Keven,2009-09-01,Midfield,16
+275330,1777,David Martins,2007-09-15,Midfield,18
+278487,1777,Diego Lionel Pereira Silva,2012-09-13,Midfield,13
+278870,1777,Daniel Lima,2007-08-15,Midfield,18
+278871,1777,Guilherme Soares,2007-03-04,Midfield,18
+278872,1777,Saymon,2007-03-07,Midfield,18
+278874,1777,Gustavo Santana,2008-03-02,Midfield,17
+279121,1777,Ricardo Filipe,2009-04-18,Midfield,16
+279858,1777,Kaio de Souza,2009-07-31,Midfield,16
+280706,1777,Kauê Junior,2009-02-27,Midfield,16
+286371,1777,Lyan Araujo,2009-02-17,Midfield,16
+1661,1777,Ademir Santos,1995-02-16,Offence,30
+28422,1777,Michel Araujo,1996-09-28,Offence,29
+203316,1777,Joao Vitor,2006-06-15,Offence,19
+203411,1777,Roger,2007-02-11,Offence,18
+203872,1777,Erick,2000-10-02,Offence,25
+262357,1777,Ruan Pablo,2008-07-23,Offence,17
+274107,1777,Roger Ruan,2005-01-12,Offence,20
+275590,1777,Dell,2008-06-09,Offence,17
+1566,1777,Iago Borduchi,1997-03-23,Left-Back,28
+8,1777,Willian José,1991-11-23,Centre-Forward,33
+181489,1777,André,2003-10-07,Right-Back,22
+2478,1778,Gabriel,1992-09-27,Goalkeeper,33
+140298,1778,Antônio Adriano,2003-03-07,Goalkeeper,22
+169548,1778,Caíque França,1995-06-03,Goalkeeper,30
+276201,1778,Kauã,2007-05-30,Goalkeeper,18
+276208,1778,Davi,2005-03-23,Goalkeeper,20
+286317,1778,Victor Hugo,2006-07-10,Goalkeeper,19
+1274,1778,Rafael Thyere,1993-05-17,Defence,32
+1498,1778,Ramon,1995-05-03,Defence,30
+12755,1778,Lucas Kal,1996-03-16,Defence,29
+18927,1778,Lucas Cunha,1994-02-04,Defence,31
+83595,1778,Matheus Alexandre,1999-04-07,Defence,26
+95136,1778,Luan Cândido,2001-02-02,Defence,24
+103423,1778,Diogo Hereda,1998-09-20,Defence,27
+136285,1778,Leo Augusto,2000-06-29,Defence,25
+178992,1778,Aderlan Silva,1990-08-18,Defence,35
+183371,1778,Kevyson,2004-03-29,Defence,21
+187212,1778,Joao Silva,1999-01-14,Defence,26
+250093,1778,Nassom,2003-02-10,Defence,22
+276235,1778,Netinho,2005-03-06,Defence,20
+276238,1778,Patrick,2005-02-27,Defence,20
+276241,1778,Riquelme da Silva,2007-01-03,Defence,18
+276254,1778,Felype,2005-12-01,Defence,19
+276258,1778,Rafael Lima da Silva,2006-04-17,Defence,19
+1188,1778,Hyoran,1993-05-25,Midfield,32
+1191,1778,Lucas Lima,1990-07-09,Midfield,35
+13618,1778,Ze Roberto,1993-09-14,Midfield,32
+15912,1778,Sergio Oliveira,1992-06-02,Midfield,33
+124717,1778,Pedro Augusto,1997-03-03,Midfield,28
+142224,1778,Chrystian Barletta,2001-07-05,Midfield,24
+177639,1778,Matheusinho,1998-02-11,Midfield,27
+276198,1778,Luiz Manoel,2006-06-01,Midfield,19
+276200,1778,Thalis,2005-04-24,Midfield,20
+276203,1778,Jefferson Borges,2006-08-15,Midfield,19
+276251,1778,zé Lucas,2008-03-23,Midfield,17
+276262,1778,Breno,2005-04-29,Midfield,20
+285334,1778,Victor Hugo,2008-12-12,Midfield,16
+1617,1778,Igor Cariús,1993-05-01,Offence,32
+1678,1778,Pablo Felipe,1992-06-23,Offence,33
+18742,1778,Romarinho,1994-03-01,Offence,31
+28348,1778,Ignacio Ramírez,1997-02-01,Offence,28
+128775,1778,Derik Lacerda,1999-09-27,Offence,26
+181428,1778,Gustavo Bispo,2004-02-07,Offence,21
+181635,1778,Lucas Silva,2003-01-29,Offence,22
+193606,1778,Rodrigo Atencio,2002-06-30,Offence,23
+265518,1778,Micael,2006-02-10,Offence,19
+276195,1778,Marco Polo,2008-12-08,Offence,16
+276205,1778,Felipe,2006-11-06,Offence,18
+276213,1778,Enzo Vagner,2006-07-28,Offence,19
+276245,1778,Adriel,2006-07-12,Offence,19
+276256,1778,Luiz Henrique,2005-02-08,Offence,20
+276261,1778,Ramon,2007-07-03,Offence,18
+276271,1778,Dedezinho,2006-03-09,Offence,19
+281422,1778,Cauã,2007-03-31,Offence,18
+22140,1778,Christian Rivera,1996-01-14,Defensive Midfield,29
+15919,1778,Gonçalo Paciência,1994-08-01,Centre-Forward,31
+82991,1779,Hugo Souza,1999-01-31,Goalkeeper,26
+179167,1779,Matheus Donelli,2002-05-17,Goalkeeper,23
+211604,1779,Kauê,2004-02-08,Goalkeeper,21
+249314,1779,Felipe,2005-03-05,Goalkeeper,20
+13710,1779,Matheuzinho,2000-09-08,Defence,25
+16342,1779,André Ramalho,1992-02-16,Defence,33
+24740,1779,Félix Torres,1997-01-11,Defence,28
+77470,1779,Cacá,1999-04-25,Defence,26
+103611,1779,Raniele,1996-12-31,Defence,28
+120089,1779,Hugo,1997-08-29,Defence,28
+169688,1779,Bidu,1999-05-04,Defence,26
+197633,1779,Nenê,1975-06-06,Defence,50
+203412,1779,Ryan,2003-07-15,Defence,22
+211608,1779,João Pedro,2003-12-31,Defence,21
+249171,1779,Guilherme Pellegrin,2006-07-26,Defence,19
+274858,1779,João Vitor,2007-01-03,Defence,18
+275564,1779,Fernando Vera,2005-03-05,Defence,20
+277940,1779,Gabriel Caipira,2005-02-15,Defence,20
+285271,1779,André Luiz,2006-06-20,Defence,19
+1447,1779,Maycon,1997-07-15,Midfield,28
+1454,1779,Ángel Romero,1992-07-04,Midfield,33
+1577,1779,Charles,1996-06-19,Midfield,29
+3789,1779,André Carrillo,1991-06-14,Midfield,34
+60058,1779,Rodrigo Garro,1998-01-04,Midfield,27
+179054,1779,Bidon,2005-02-20,Midfield,20
+179282,1779,José Martínez,1994-08-07,Midfield,31
+211607,1779,Kayke,2004-04-28,Midfield,21
+249188,1779,Yago,2006-02-05,Midfield,19
+259933,1779,Guilherme,2007-02-06,Midfield,18
+272780,1779,Luiz de Nardi,2007-07-13,Midfield,18
+274859,1779,Luiz Eduardo,2007-06-26,Midfield,18
+275105,1779,Luiz Gustavo,2006-01-02,Midfield,19
+1325,1779,Yuri Alberto,2001-03-18,Offence,24
+15795,1779,Vitinho,1993-10-09,Offence,32
+32309,1779,Héctor Hernández,1995-09-14,Offence,30
+119383,1779,Talles Magno,2002-06-26,Offence,23
+274493,1779,Guilherme Gama,2008-06-01,Offence,17
+275104,1779,Dieguinho,2007-09-16,Offence,18
+46376,1779,Fabrizio Angileri,1994-03-15,Left-Back,31
+8472,1779,Memphis Depay,1994-02-13,Centre-Forward,31
+1301,1779,Gustavo Henrique,1993-03-24,Centre-Back,32
+1169,1780,Daniel Fuzato,1997-07-04,Goalkeeper,28
+179586,1780,Léo Jardim,1995-03-20,Goalkeeper,30
+249200,1780,Phillipe Gabriel,2006-02-23,Goalkeeper,19
+251108,1780,Pablo,2003-02-11,Goalkeeper,22
+276218,1780,Renatinha,1997-10-22,Goalkeeper,28
+276257,1780,Allan Vitor,2004-01-08,Goalkeeper,21
+1181,1780,Victor Luis,1993-06-23,Defence,32
+2189,1780,Mauricio Lemos,1995-12-28,Defence,29
+22497,1780,Carlos Cuesta,1999-03-09,Defence,26
+28564,1780,José Rodríguez,1997-03-14,Defence,28
+117822,1780,Lucas Piton,2000-10-09,Defence,25
+119622,1780,Lucas Freitas,2001-01-20,Defence,24
+169566,1780,Paulo Henrique,1996-07-25,Defence,29
+179017,1780,Robert,2003-10-11,Defence,22
+192652,1780,Paulinho,2005-05-23,Defence,20
+203280,1780,Paulo Ricardo,2005-05-23,Defence,20
+249165,1780,Leandro Viana,2005-03-17,Defence,20
+276215,1780,Alison,2007-01-26,Defence,18
+276277,1780,Gabriel Soares,2008-06-19,Defence,17
+280295,1780,Kaique Ferreira,2009-03-04,Defence,16
+280839,1780,Breno Vereza,2007-09-03,Defence,18
+285450,1780,Bruno André,2007-01-02,Defence,18
+287686,1780,Isabela Matos,2002-08-12,Defence,23
+1172,1780,Tchê Tchê,1992-08-30,Midfield,33
+1251,1780,David,1995-10-17,Midfield,30
+8402,1780,Thiago Mendes,1992-03-15,Midfield,33
+13192,1780,Jair,1994-08-26,Midfield,31
+103153,1780,Hugo Moura,1998-01-03,Midfield,27
+152610,1780,Tucuruí,2002-03-18,Midfield,23
+165615,1780,Adson,2000-10-06,Midfield,25
+178432,1780,Carlos Gómez,2002-09-12,Midfield,23
+203260,1780,Ray,2004-08-31,Midfield,21
+203341,1780,Cauan Lucas,2004-05-06,Midfield,21
+221947,1780,Bruno Lazaroni,1980-09-13,Midfield,45
+260986,1780,Bruno Lopes,2007-07-25,Midfield,18
+276194,1780,Wallace,2005-03-07,Midfield,20
+276216,1780,Andrey,2008-02-05,Midfield,17
+276248,1780,Leonardo Araujo,2007-01-31,Midfield,18
+280294,1780,Diego Bento de Souza,2011-03-29,Midfield,14
+286832,1780,Diego Campos,2009-01-27,Midfield,16
+23629,1780,Jean Meneses,1993-03-16,Offence,32
+59859,1780,Pablo Vegetti,1988-10-15,Offence,37
+142428,1780,Benjamín Garré,2000-07-11,Offence,25
+203282,1780,Gabriel Sousa,2005-01-05,Offence,20
+203356,1780,Rayan,2006-08-03,Offence,19
+221205,1780,Léo Jacó,2005-04-06,Offence,20
+249212,1780,Lukas,2006-12-02,Offence,18
+249217,1780,Guilherme Estrella,2005-04-22,Offence,20
+276226,1780,Riquelme,2006-03-08,Offence,19
+276233,1780,Pedro Augusto,2008-02-29,Offence,17
+276240,1780,Euder,2005-03-18,Offence,20
+276285,1780,Diego Ahmed,2007-05-30,Offence,18
+176241,1780,Matheus Franca,2004-04-01,Attacking Midfield,21
+171304,1780,Nuno Moreira,1999-06-16,Left Winger,26
+12818,1780,Lucas Oliveira,1996-02-02,Centre-Back,29
+3228,1780,Philippe Coutinho,1992-06-12,Attacking Midfield,33
+140876,1782,Yuri Sena,2001-01-03,Goalkeeper,24
+141366,1782,Fintelman,2001-07-20,Goalkeeper,24
+169246,1782,Thiago Couto,1999-03-26,Goalkeeper,26
+169696,1782,Lucas Arcanjo,1998-08-08,Goalkeeper,27
+276225,1782,Davi Barbosa,2006-03-02,Goalkeeper,19
+1602,1782,Neris,1992-06-17,Defence,33
+13421,1782,Carlos Eduardo,1996-10-10,Defence,29
+18571,1782,Camutanga,1993-09-27,Defence,32
+101837,1782,Jamerson,1998-09-09,Defence,27
+103139,1782,Raúl Cáceres,1991-09-18,Defence,34
+113931,1782,Lucas Halter,2000-05-02,Defence,25
+127239,1782,Claudinho,2000-09-24,Defence,25
+130045,1782,Zé Marcos,1998-02-01,Defence,27
+161202,1782,Bruno Uvini,1991-06-03,Defence,34
+249142,1782,Andrei,2005-04-30,Defence,20
+276228,1782,Buiu,2006-02-08,Defence,19
+276289,1782,Kauan,2007-03-15,Defence,18
+277416,1782,Gean,2007-06-11,Defence,18
+277417,1782,Kauan Vitor,2006-06-15,Defence,19
+12781,1782,Willian Oliveira,1993-05-16,Midfield,32
+18781,1782,Lucas Braga,1996-11-10,Midfield,28
+19142,1782,Ronald,1997-06-18,Midfield,28
+45398,1782,Ricardo Ryller,1994-02-27,Midfield,31
+61447,1782,Gabriel Baralhas,1998-10-10,Midfield,27
+98856,1782,João Pedro Pepê,1998-01-06,Midfield,27
+166758,1782,Kike Saverio,1999-06-19,Midfield,26
+179171,1782,Dudu,1999-06-05,Midfield,26
+203646,1782,Matheuzinho,1997-10-18,Midfield,28
+249168,1782,Edenilson,2005-06-17,Midfield,20
+277047,1782,Felipe Cardoso,2003-03-04,Midfield,22
+277418,1782,Wendell,2005-08-31,Midfield,20
+277420,1782,Wanderson,2005-07-27,Midfield,20
+278380,1782,Maykon,2005-12-07,Midfield,19
+282800,1782,Paulo,2005-11-13,Midfield,19
+12716,1782,Osvaldo,1987-04-11,Offence,38
+12837,1782,Renato Kayzer,1996-02-17,Offence,29
+12960,1782,Carlinhos,1997-02-12,Offence,28
+32156,1782,Aitor Cantalapiedra,1996-02-10,Offence,29
+40441,1782,Erick,1997-12-10,Offence,27
+44093,1782,Renzo López,1994-04-16,Offence,31
+85504,1782,Fabrício,2000-10-08,Offence,25
+270796,1782,Paulo Roberto,2006-01-16,Offence,19
+276250,1782,Marcos Vinicius,2007-01-29,Offence,18
+277421,1782,Emanoel,2007-12-17,Offence,17
+115184,1782,Ramon,2001-03-13,Left-Back,24
+81066,1782,Ruben Rodrigues,1996-08-02,Attacking Midfield,29
+150786,1782,Rúben Ramos,1999-03-25,Defensive Midfield,26
+11656,1783,Agustín Rossi,1995-08-21,Goalkeeper,30
+178822,1783,Matheus Cunha,2001-05-24,Goalkeeper,24
+203290,1783,Francisco Dyogo,2004-01-09,Goalkeeper,21
+275020,1783,Léo Nannetti,2007-08-21,Goalkeeper,18
+1074,1783,Ayrton Lucas,1997-06-19,Defence,28
+1408,1783,Leo Ortiz,1996-01-03,Defence,29
+3165,1783,Guillermo Varela,1993-03-24,Defence,32
+8515,1783,Pablo,1991-06-21,Defence,34
+11192,1783,Léo Pereira,1996-01-31,Defence,29
+28426,1783,Matías Viña,1997-11-09,Defence,27
+172995,1783,Cleiton Santos,2003-04-25,Defence,22
+203359,1783,Daniel,2006-06-23,Defence,19
+249195,1783,Iago,2005-04-18,Defence,20
+249198,1783,Carbone,2005-01-29,Defence,20
+272828,1783,João Pedro,2006-03-13,Defence,19
+275192,1783,Gusttavo,2006-01-10,Defence,19
+276573,1783,Wanderson,2007-10-17,Defence,18
+276943,1783,Johnny Goes,2007-03-27,Defence,18
+1244,1783,Giorgian De Arrascaeta,1994-06-01,Midfield,31
+1867,1783,Erick Pulgar,1994-01-15,Midfield,31
+29012,1783,Jorge Carrascal,1998-05-25,Midfield,27
+56574,1783,Allan,1997-03-03,Midfield,28
+168795,1783,Nicolas de la Cruz,1997-06-01,Midfield,28
+203401,1783,Evertton,2003-02-28,Midfield,22
+249147,1783,Yan,2005-02-08,Midfield,20
+265223,1783,Fabiano,2005-06-11,Midfield,20
+273193,1783,João Victor,2007-01-01,Midfield,18
+274152,1783,Guilherme,2006-02-23,Midfield,19
+274693,1783,Pablo,2007-04-12,Midfield,18
+275191,1783,Lucas,2007-03-08,Midfield,18
+275676,1783,Luiz Felipe,2008-02-08,Midfield,17
+277520,1783,Joshua,2007-05-26,Midfield,18
+1077,1783,Pedro,1997-06-20,Offence,28
+1159,1783,Éverton,1996-03-22,Offence,29
+1317,1783,Bruno Henrique,1990-12-30,Offence,34
+8413,1783,Luiz Araújo,1996-06-02,Offence,29
+13123,1783,Juninho,1996-11-21,Offence,28
+13455,1783,Michael,1996-03-12,Offence,29
+56066,1783,Gonzalo Plata,2000-11-01,Offence,24
+249167,1783,Guilherme,2006-02-02,Offence,19
+7881,1783,Danilo,1991-07-15,Centre-Back,34
+2094,1783,Jorginho,1991-12-20,Defensive Midfield,33
+2028,1783,Alex Sandro,1991-01-26,Left-Back,34
+1131,1783,Emerson Royal,1999-01-14,Right-Back,26
+118,1783,Saúl,1994-11-21,Central Midfield,30
+178710,1783,Samuel Lino,1999-12-23,Left Winger,25
+1494,1837,Fernando Miguel,1985-02-02,Goalkeeper,40
+1561,1837,Keiller,1996-10-29,Goalkeeper,28
+1595,1837,Richard,1991-03-01,Goalkeeper,34
+18556,1837,Bruno,1994-03-16,Goalkeeper,31
+270341,1837,Deivid,2005-06-01,Goalkeeper,20
+276244,1837,Gabriel Rocha,2006-01-23,Goalkeeper,19
+1441,1837,Marllon,1992-04-16,Defence,33
+1679,1837,Nicolas Vichiatto,1997-02-24,Defence,28
+1700,1837,Luiz Otávio,1988-09-14,Defence,37
+11193,1837,Éder Ferreira,1995-04-05,Defence,30
+13516,1837,Willian Machado,1996-11-13,Defence,28
+77772,1837,Rafael Ramos,1995-01-09,Defence,30
+136260,1837,Lucas Lima,2000-07-04,Defence,25
+140872,1837,Matheus Bahia,1999-08-11,Defence,26
+143934,1837,Gabriel Lacerda,1999-08-29,Defence,26
+179535,1837,Marcos Victor,2001-12-26,Defence,23
+179852,1837,Dieguinho,1995-03-31,Defence,30
+203976,1837,Bruno Santos,2007-07-23,Defence,18
+276253,1837,Jose Ferreira,2005-10-30,Defence,19
+277059,1837,Pedro Esli,2007-05-03,Defence,18
+277060,1837,Vinicius Menezes Uchella,2006-01-22,Defence,19
+1709,1837,Richardson,1991-08-17,Midfield,34
+13851,1837,Fernando Sobral,1994-12-17,Midfield,30
+15973,1837,Pedro Henrique,1990-06-16,Midfield,35
+23363,1837,Lucas Mugni,1992-01-12,Midfield,33
+144121,1837,Paulo Baya,1999-07-26,Midfield,26
+161037,1837,Matheus Araújo,2002-05-22,Midfield,23
+178917,1837,Rodriguinho,2003-06-05,Midfield,22
+179766,1837,Vina,1991-04-15,Midfield,34
+213384,1837,Wellington,2007-04-14,Midfield,18
+1658,1837,Aylon,1992-04-07,Offence,33
+12585,1837,Lourenço,1997-09-07,Offence,28
+40134,1837,Pedro Raul,1996-11-05,Offence,28
+43964,1837,Fernandinho,1997-07-19,Offence,28
+179043,1837,Antonio Galeano,2000-03-22,Offence,25
+179844,1837,Pablo,2004-01-06,Offence,21
+203398,1837,Lucca Holanda,2003-04-02,Offence,22
+276266,1837,Guilherme Luiz,2005-04-25,Offence,20
+277445,1837,Kadu,2004-12-27,Offence,20
+286951,1837,Paula,1992-09-24,Offence,33
+171328,1837,Fabiano Silva,2000-03-14,Right-Back,25
+170694,1837,Vinicius Zanocelo,2001-01-30,Central Midfield,24
+1631,3984,João Ricardo,1988-09-06,Goalkeeper,37
+12607,3984,Vinicius Silvestre,1994-03-28,Goalkeeper,31
+61184,3984,Helton Leite,1990-11-02,Goalkeeper,34
+157261,3984,Magrão,2000-05-15,Goalkeeper,25
+181458,3984,Brenno Costa,1999-04-01,Goalkeeper,26
+1177,3984,Diogo Barbosa,1992-08-17,Defence,33
+1272,3984,Bruno Pacheco,1991-12-08,Defence,33
+1465,3984,Yago Pikachu,1992-06-05,Defence,33
+12670,3984,Tinga,1993-09-01,Defence,32
+19918,3984,Erandir,1982-08-05,Defence,43
+23615,3984,Benjamín Kuščević,1996-05-02,Defence,29
+46530,3984,Emanuel Brítez,1992-03-26,Defence,33
+169088,3984,Eros Mancuso,1999-04-17,Defence,26
+169573,3984,Marcelo Benevenuto,1996-01-07,Defence,29
+187256,3984,Lucas Gazal,1999-08-06,Defence,26
+264055,3984,Samuel,2005-04-05,Defence,20
+264056,3984,Arthur Barbosa,2006-01-30,Defence,19
+277598,3984,Gustavo Nobre,2009-05-25,Defence,16
+277599,3984,João Lucas,2009-11-27,Defence,15
+1614,3984,Matheus Pereira,1998-02-25,Midfield,27
+1680,3984,Matheus Rossetto,1996-06-03,Midfield,29
+15452,3984,Lucas Sasha,1990-03-01,Midfield,35
+21600,3984,Marinho,1990-05-29,Midfield,35
+22265,3984,Yeison Guzmán,1998-03-22,Midfield,27
+45802,3984,Leandro Martínez,1994-06-04,Midfield,31
+46461,3984,Tomás Pochettino,1996-02-01,Midfield,29
+140614,3984,Pierre,2002-03-12,Midfield,23
+168986,3984,Jose Welison,1995-03-11,Midfield,30
+191378,3984,José Herrera,2003-04-16,Midfield,22
+260719,3984,Fabricio Dias,2004-08-26,Midfield,21
+269804,3984,Rodrigo,2000-09-18,Midfield,25
+274151,3984,Kayke,2006-06-19,Midfield,19
+276222,3984,Lucca Prior,2004-02-12,Midfield,21
+276283,3984,Bruno Branco,2005-08-13,Midfield,20
+277058,3984,Caio,2007-05-12,Midfield,18
+277423,3984,Kleberson Ruan,2009-01-27,Midfield,16
+278840,3984,Luquinhas,2006-07-14,Midfield,19
+283439,3984,Guilherme Cristovam,2006-02-08,Midfield,19
+1196,3984,Deyverson,1991-05-08,Offence,34
+13607,3984,Lucas Crispim,1994-06-19,Offence,31
+39599,3984,Juan Lucero,1991-11-30,Offence,33
+76337,3984,Adam Bareiro,1996-07-26,Offence,29
+115959,3984,Moises,1996-09-02,Offence,29
+169022,3984,Breno Lopes,1996-01-24,Offence,29
+169091,3984,Allanzinho,2000-04-04,Offence,25
+179754,3984,Jhonnatha,2004-04-20,Offence,21
+249277,3984,Guilherme,2005-06-15,Offence,20
+250572,3984,Cachoeira,2002-04-25,Offence,23
+264049,3984,Kaiky,2004-03-06,Offence,21
+264051,3984,Kauê,2004-02-20,Offence,21
+277061,3984,Bruno Cesar,2005-06-11,Offence,20
+277757,3984,André Ricardo,2005-07-18,Offence,20
+146361,3984,Weverson,2000-07-05,Left-Back,25
+140850,3984,Gastón Ávila,2001-09-30,Centre-Back,24
+12813,3984,Pablo Barbosa,1999-11-14,Central Midfield,25
+1262,4245,Jandrei,1993-03-01,Goalkeeper,32
+102580,4245,Gastón Guruceaga,1995-03-15,Goalkeeper,30
+181567,4245,Ruan Carneiro,1990-03-28,Goalkeeper,35
+218080,4245,Zé Henrique,2004-10-23,Goalkeeper,21
+1278,4245,Alan Ruschel,1989-08-23,Defence,36
+13651,4245,Reginaldo,1993-02-22,Defence,32
+13758,4245,Rodrigo Sam,1995-07-24,Defence,30
+49421,4245,Wilker Ángel,1993-03-18,Defence,32
+103876,4245,Peixoto,1997-06-30,Defence,28
+169546,4245,Ewerthon,2000-11-10,Defence,24
+179149,4245,Cipriano,2002-11-09,Defence,22
+181515,4245,Natã,2001-06-05,Defence,24
+181603,4245,Igor Formiga,1999-01-08,Defence,26
+181667,4245,Marcelo Hermes,1995-02-01,Defence,30
+182229,4245,Marcos Paulo,2003-01-18,Defence,22
+192634,4245,Luan Freitas,2001-01-20,Defence,24
+203688,4245,Abner,2004-04-19,Defence,21
+283428,4245,Bernardo Tichz,2005-03-11,Defence,20
+1083,4245,Jádson,1993-08-30,Midfield,32
+1344,4245,Lucas Fernandes,1997-09-20,Midfield,28
+1356,4245,Nenê,1981-07-19,Midfield,44
+11194,4245,Gabriel Taliari,1997-04-13,Midfield,28
+22132,4245,Daniel Giraldo,1992-07-01,Midfield,33
+97456,4245,Rafael Bilu,1999-04-21,Midfield,26
+103621,4245,Caique,1995-10-10,Midfield,30
+117985,4245,Giovanny,1997-09-19,Midfield,28
+138222,4245,Ênio,2001-03-03,Midfield,24
+143037,4245,Enmerson Batalla,2001-06-30,Midfield,24
+154367,4245,Juan Sforza,2002-02-14,Midfield,23
+177630,4245,Gabriel Tota,2001-10-29,Midfield,23
+181506,4245,Luiz Mandaca,2001-10-02,Midfield,24
+189872,4245,Guilherme Gehring,2005-05-09,Midfield,20
+203884,4245,Rafael,2002-11-18,Midfield,22
+259925,4245,Joao Trevisol,2005-04-19,Midfield,20
+263274,4245,Hudson,2001-01-14,Midfield,24
+278486,4245,Cauã,2009-01-08,Midfield,16
+278785,4245,Edson Caruaru,2009-11-27,Midfield,15
+278873,4245,Kaua Costa,2009-04-28,Midfield,16
+285560,4245,Nathan Yuri,2009-07-29,Midfield,16
+287828,4245,João Paulo,2008-05-18,Midfield,17
+21080,4245,Matheus Babi,1997-07-18,Offence,28
+38734,4245,Gilberto,1989-06-05,Offence,36
+169080,4245,Gabriel Veron,2002-09-03,Offence,23
+218640,4245,Edison Negueba,2000-10-24,Offence,25
+249140,4245,Rafael Pinna,2007-09-04,Offence,18
+249180,4245,Marlon,2005-01-11,Offence,20
+276260,4245,Luiz,2004-12-23,Offence,20
+277305,4245,Caique,2004-12-19,Offence,20
+277442,4245,Galego,1999-08-10,Offence,26
+288443,4245,Joaquim Ramao,2009-06-22,Offence,16
+1098,4286,Cleiton,1997-08-19,Goalkeeper,28
+111297,4286,Fabrício,2000-06-15,Goalkeeper,25
+128746,4286,Lucão,2001-02-26,Goalkeeper,24
+261517,4286,Gustavo Reis,2005-06-10,Goalkeeper,20
+277392,4286,Fernando Henrique,2004-02-01,Goalkeeper,21
+285469,4286,Lucca Uchoa,2009-04-06,Goalkeeper,16
+1435,4286,Pedro Henrique,1995-10-02,Defence,30
+1439,4286,Juninho Capixaba,1997-07-06,Defence,28
+28510,4286,Ariel Sant'Anna,1997-09-27,Defence,28
+43624,4286,Eduardo Santos,1997-11-28,Defence,27
+131279,4286,José Hurtado,2001-12-23,Defence,23
+131880,4286,Guzmán Rodríguez,2000-02-08,Defence,25
+154767,4286,Vanderlan,2002-09-07,Defence,23
+169578,4286,Vinicius,1999-11-06,Defence,25
+179007,4286,Gustavo Marques,2001-10-09,Defence,24
+179845,4286,Nathan,2002-08-19,Defence,23
+206663,4286,Gustavo Henrique,2005-10-18,Defence,20
+217605,4286,Sergio Palacios,2005-02-14,Defence,20
+249408,4286,Kevyn Monteiro,2005-09-13,Defence,20
+276193,4286,Vinicius Lago,2005-10-22,Defence,20
+280897,4286,Cauê,2006-12-13,Defence,18
+1214,4286,Matheus Fernandes,1998-06-30,Midfield,27
+1445,4286,Gabriel,1992-07-10,Midfield,33
+32489,4286,Vitinho,1998-03-24,Midfield,27
+82776,4286,Eric Ramires,2000-08-10,Midfield,25
+83053,4286,Ignacio Laquintana,1999-02-01,Midfield,26
+114353,4286,Isidro Pitta,1999-08-14,Midfield,26
+142936,4286,Bruno Praxedes,2002-02-08,Midfield,23
+169236,4286,Lucas Barbosa,2001-02-22,Midfield,24
+178961,4286,Guilherme,2002-02-14,Midfield,23
+179032,4286,Jhonatan,2002-09-09,Midfield,23
+179156,4286,Fabinho,2002-04-09,Midfield,23
+192621,4286,Gustavinho,2004-04-23,Midfield,21
+249304,4286,Alexandre Cesar,2005-02-21,Midfield,20
+249311,4286,Yuri Silva,2007-04-14,Midfield,18
+249333,4286,Gabriel Lopes,2006-07-12,Midfield,19
+249335,4286,Rafael da Silva,2006-03-16,Midfield,19
+287807,4286,Emanuel de Oliveira,2009-01-27,Midfield,16
+1326,4286,Eduardo Sasha,1992-02-24,Offence,33
+11198,4286,Fernando,1999-03-01,Offence,26
+141633,4286,Thiago Borbas,2002-04-07,Offence,23
+144471,4286,João Neto,2003-05-21,Offence,22
+146355,4286,Kawê,2002-06-22,Offence,23
+178206,4286,Henry Mosquera,2001-11-15,Offence,23
+178898,4286,Bruno,2003-03-14,Offence,22
+213293,4286,Marcelinho Braz,2004-08-16,Offence,21
+249331,4286,Filipe,2006-02-13,Offence,19
+250437,4286,Vinicius Mendonça,2004-02-20,Offence,21
+276181,4286,Gabriel Amaral,2004-08-12,Offence,21
+276328,4286,Athyrson,2004-01-06,Offence,21
+280896,4286,Davi Gomes,2005-06-06,Offence,20
+1432,4364,Walter,1987-11-18,Goalkeeper,37
+44810,4364,Alex Muralha,1989-11-10,Goalkeeper,35
+203727,4364,Lacerda,2005-02-13,Goalkeeper,20
+1267,4364,Luiz Otavio,1992-10-09,Defence,33
+1340,4364,Reinaldo,1989-09-28,Defence,36
+1706,4364,Felipe Jonatan,1998-02-15,Defence,27
+12931,4364,Daniel Borges,1993-03-23,Defence,32
+13647,4364,Lucas Ramon,1994-03-07,Defence,31
+103442,4364,João Victor,1997-09-02,Defence,28
+165671,4364,Da Silva,2001-02-07,Defence,24
+181576,4364,Gabriel Knesowitsch,2003-10-18,Defence,22
+204018,4364,Cristian Renato,2000-02-18,Defence,25
+220659,4364,Luiz Fernando,2008-02-07,Defence,17
+250800,4364,Jemmes,2000-04-09,Defence,25
+250882,4364,Paulo Henrique,1996-12-19,Defence,28
+276367,4364,Everton Oliveira,2003-07-14,Defence,22
+1348,4364,Shaylon,1997-04-27,Midfield,28
+1510,4364,Yago Felipe,1995-02-03,Midfield,30
+13110,4364,Matheus Sales,1995-05-13,Midfield,30
+13860,4364,Danielzinho,1994-11-04,Midfield,30
+95982,4364,Alesson,1999-02-16,Midfield,26
+103163,4364,Chico,1991-05-16,Midfield,34
+103301,4364,Matheus Bianqui,1998-01-31,Midfield,27
+103448,4364,Edson Carioca,1998-06-04,Midfield,27
+121909,4364,José Aldo,1998-07-25,Midfield,27
+169554,4364,Roni,1999-04-15,Midfield,26
+193694,4364,Guilherme Marques,1991-05-21,Midfield,34
+279634,4364,Lucas Bernardino,2009-02-18,Midfield,16
+1426,4364,Neto Moura,1996-08-06,Offence,29
+1427,4364,Gabriel,1990-01-06,Offence,35
+18732,4364,Negueba,1999-12-03,Offence,25
+40067,4364,Chico,1995-05-05,Offence,30
+179086,4364,Renato Marques,2003-12-09,Offence,21
+179144,4364,Carlos Eduardo,1996-10-10,Offence,29
+12602,6684,Ivan,1997-07-02,Goalkeeper,28
+30386,6684,Sergio Rochet,1993-03-23,Goalkeeper,32
+169581,6684,Anthoni,2002-01-23,Goalkeeper,23
+249146,6684,Diego Esser,2005-04-13,Goalkeeper,20
+261272,6684,Kauan,2003-04-27,Goalkeeper,22
+58,6684,Gabriel Mercado,1987-03-18,Defence,38
+113807,6684,Vitão,2000-02-02,Defence,25
+133258,6684,Alexandro Bernabei,2000-09-24,Defence,25
+153573,6684,Braian Aguirre,2000-07-28,Defence,25
+165600,6684,Victor Gabriel,2004-04-28,Defence,21
+169122,6684,Alan Benitez,1994-01-25,Defence,31
+204028,6684,Yan,2005-11-04,Defence,19
+205533,6684,Juninho,1995-02-01,Defence,30
+243622,6684,Clayton,2000-04-04,Defence,25
+276204,6684,Pedro Kauã,2006-03-29,Defence,19
+276212,6684,Pablo Pereira,2006-07-01,Defence,19
+287829,6684,Alisson Rodrigues,2008-07-31,Defence,17
+285,6684,Óscar Romero,1992-07-04,Midfield,33
+1189,6684,Bruno Henrique,1989-10-21,Midfield,36
+1550,6684,Ronaldo,1996-10-23,Midfield,29
+8404,6684,Thiago Maia,1997-03-23,Midfield,28
+16481,6684,Alan Patrick,1991-05-13,Midfield,34
+114877,6684,Alan Rodríguez,2000-01-25,Midfield,25
+129367,6684,Bruno Gomes,2001-04-04,Midfield,24
+249134,6684,Gustavo Prado,2005-06-06,Midfield,20
+261682,6684,Yago Noal,2007-02-05,Midfield,18
+262690,6684,Luis Aquino,2007-04-12,Midfield,18
+276202,6684,Bernardo Jacob,2006-02-28,Midfield,19
+278143,6684,Raykkonen,2008-07-13,Midfield,17
+285156,6684,Allex,2006-05-04,Midfield,19
+1091,6684,Richard,1994-02-18,Offence,31
+22061,6684,Johan Carbonero,1999-07-20,Offence,26
+45372,6684,Tabata,1997-03-30,Offence,28
+169553,6684,Vitinho,1999-04-01,Offence,26
+259941,6684,Lucca,2004-01-12,Offence,21
+263478,6684,Ricardo Mathias,2006-07-25,Offence,19
+276495,6684,João Victor,2007-07-27,Offence,18
+276889,6684,Leandro Kauã,2005-02-28,Offence,20
+287950,6684,Benjamin Arhin,2006-05-29,Offence,19
+11680,6684,Rafael Borré,1995-09-15,Centre-Forward,30
+99380,6685,Gabriel Brazão,2000-10-05,Goalkeeper,25
+170456,6685,Diogenes,2001-01-06,Goalkeeper,24
+249475,6685,Rodrigo,2005-03-23,Goalkeeper,20
+251329,6685,João Pedro,2008-03-18,Goalkeeper,17
+276246,6685,João Fernandes,2004-05-25,Goalkeeper,21
+1086,6685,Luan Peres,1994-07-19,Defence,31
+1174,6685,Mayke,1992-11-10,Defence,32
+12616,6685,Igor Vinícius,1997-04-01,Defence,28
+45834,6685,Gonzalo Escobar,1997-03-16,Defence,28
+169023,6685,Alexis Duarte,2000-03-12,Defence,25
+169556,6685,Zé Ivaldo,1997-02-21,Defence,28
+203986,6685,Luisão,2003-09-09,Defence,22
+249465,6685,Souza,2006-06-16,Defence,19
+249479,6685,João Pedro Chermont,2006-01-18,Defence,19
+276230,6685,Vinícius Lira,2007-10-12,Defence,18
+278747,6685,João Alencar,2007-06-25,Defence,18
+282990,6685,Joāo Paulo,2007-02-12,Defence,18
+1156,6685,Thaciano,1995-05-12,Midfield,30
+1380,6685,Zé Rafael,1993-06-16,Midfield,32
+1540,6685,Willian Arão,1992-03-12,Midfield,33
+1849,6685,João Schmidt,1993-05-19,Midfield,32
+2295,6685,Tomás Rincón,1988-01-13,Midfield,37
+83705,6685,Álvaro Barreal,2000-08-17,Midfield,25
+169102,6685,Kevin Malthus,2003-01-11,Midfield,22
+178854,6685,Victor Hugo Gomes,2004-05-11,Midfield,21
+191772,6685,Gustavo Caballero,2001-09-21,Midfield,24
+192844,6685,Lautaro Diaz,1998-05-21,Midfield,27
+249452,6685,Hyan,2004-03-24,Midfield,21
+260876,6685,Mateus Caucaia,2007-06-29,Midfield,18
+276239,6685,Gabriel Bontempo,2005-01-16,Midfield,20
+276265,6685,Gustavo Henrique,2005-04-07,Midfield,20
+280705,6685,Robson Júnior,2007-12-17,Midfield,17
+1291,6685,Guilherme,1995-04-13,Offence,30
+8491,6685,Neymar,1992-02-05,Offence,33
+15914,6685,Tiquinho Soares,1991-01-17,Offence,34
+203836,6685,Andrey,2002-08-05,Offence,23
+249491,6685,João Victor,2007-08-12,Offence,18
+122016,6685,Benjamín Rollheiser,2000-03-24,Right Winger,25
+72714,6685,Adonis Frías,1998-03-17,Centre-Back,27
+37484,6685,João Basso,1997-01-13,Centre-Back,28
+181927,6685,Bilal Brahimi,2000-03-14,Left Winger,25

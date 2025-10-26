@@ -7,11 +7,9 @@ services:
     working_dir: /usr/src/app   
     volumes:
       - ./Raw:/usr/src/app/Raw      
-      - ./Spark:/usr/src/app/Spark 
-      - ./Truested:/usr/src/Truested 
+      - ./Trusted:/usr/src/app/Trusted
+      - ./Refined:/usr/src/app/Refined
     environment:
       - JAVA_HOME=/usr/lib/jvm/default-java
     env_file:
     - .env
-
-    command: ["python", "/usr/src/app/FetchDataFromAPI/GetEstatisticas2025.py"]  # caminho relativo ao workdir
